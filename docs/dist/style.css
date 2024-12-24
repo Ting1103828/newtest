@@ -256,7 +256,6 @@ main {
     margin-top:40px;
     line-height: 1.5;
     color: #45362e;
-    z-index: 40;
 }
 
 .buttons {
@@ -297,7 +296,7 @@ main {
     width: 100%;
     height: 100%;
     background-color: #3c871c;
-    z-index: 30;
+    z-index: -1;
     transform: translateY(-50%);
     border-radius: 5px;
 }
