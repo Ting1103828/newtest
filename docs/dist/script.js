@@ -60,7 +60,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/GcwEBLv.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
@@ -268,7 +268,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/AaFHwTr.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
@@ -284,7 +284,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/AaFHwTr.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
@@ -332,7 +332,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/AaFHwTr.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
@@ -412,7 +412,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/AaFHwTr.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
@@ -492,7 +492,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/AaFHwTr.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
@@ -524,7 +524,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/AaFHwTr.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
@@ -540,7 +540,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/AaFHwTr.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
@@ -572,7 +572,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/AaFHwTr.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
@@ -620,7 +620,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/AaFHwTr.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
@@ -652,7 +652,7 @@ var userChoices = {
         resultTitle = '等級 A';
         resultIt = '神隱的副廚';
         resultDescription = '隨心所欲的能力者，明明有能力能夠完成精美的料理，但有時候就是想躺平，需要一個充滿活力的搭檔。';
-        resultcharacter= '<img src="https://i.imgur.com/AaFHwTr.png" alt="模擬畫面" />';
+        resultcharacter= '<img src="https://i.imgur.com/ncxi5Fa.png" alt="模擬畫面" />';
         tags = ['#隱藏料理天賦', '#急需督促', '#喜歡被稱讚'];
         extrasContent = `
             <div>
