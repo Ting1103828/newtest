@@ -152,6 +152,22 @@ var userChoices = {
                 <img src="https://i.imgur.com/TAm3rzz.png" alt="炸廚房同夥" />
             </div>
         `;
+      }else if (userChoices.question1 === 'a' && userChoices.question2 === 'a' && userChoices.question3 === 'b' && userChoices.question4 === 'b' && userChoices.question5 === 'a') {
+        resultTitle = '等級 B';
+        resultIt = '可塑之才';
+        resultDescription = '你具備發展潛力，雖然目前的技術可能還未達到頂尖水準，但你的學習能力和適應力極強。隨著時間的推移，經過適當的指導與練習，你有機會成為一名出色的廚師。你願意嘗試新的事物，並且不怕失敗，這讓你擁有無限的可能性。';
+        resultcharacter= '<img src="https://i.imgur.com/he7rksO.png" alt="模擬畫面" />';
+        tags = ['#學習潛力', '#不斷進步', '#有待挖掘'];
+        extrasContent = `
+            <div>
+                最佳共煮拍檔
+                <img src="https://i.imgur.com/7Fru6po.png" alt="最佳共煮拍檔" />
+            </div>
+            <div>
+                炸廚房同夥
+                <img src="https://i.imgur.com/TAm3rzz.png" alt="炸廚房同夥" />
+            </div>
+        `;
       }else if (userChoices.question1 === 'a' && userChoices.question2 === 'a' && userChoices.question3 === 'b' && userChoices.question4 === 'b' && userChoices.question5 === 'b') {
         resultTitle = '等級 F';
         resultIt = '做菜雷咖';
